@@ -102,10 +102,11 @@ public class Program
         {
             Console.WriteLine(incorrectCaseTemplate, testCaseNumber);
         }
+        
     }
 
     private static string correctCaseTemplate = "Case #{0} is correct.";
     private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
     private static int correctTestCaseAmount = 0;
 }
-© 2020 GitHub, Inc.
+
