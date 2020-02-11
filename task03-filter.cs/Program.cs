@@ -13,7 +13,7 @@ public class Program
 {
     public static int[] Filter(int[] source)
     {
-        // ИЗМЕНИТЕ КОД ЭТОГО МЕТОДА
+       
         List<int> list = new List<int>();
         if (source.Count() == 1)
             return source;
